@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
 .idea/
+cn/doc/
 # Log file
 *.log
 *.md
