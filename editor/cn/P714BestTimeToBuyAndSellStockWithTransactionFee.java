@@ -31,7 +31,7 @@ package cn;
 public class P714BestTimeToBuyAndSellStockWithTransactionFee{
     public static void main(String[] args) {
         Solution solution = new P714BestTimeToBuyAndSellStockWithTransactionFee().new Solution();
-        int[] prices =new int[]{}
+        int[] prices = new int[]{};
     }
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
